@@ -13,7 +13,7 @@ use Illuminate\Support\Arr;
  * @param  mixed  $default
  * @return array
  */
-function array_pull_with_Key(&$array, $key, $default = null)
+function array_pull_with_key(&$array, $key, $default = null)
 {
     //as func_get_args() loses references, we can't pass
     //spreaded func_get_args() here...

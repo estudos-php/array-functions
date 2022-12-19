@@ -20,7 +20,7 @@ composer require laracraft-tech/array-functions
 
 The following functions are provided in the `LaracraftTech`-namespace:
 
-### array_pull_with_Key
+### array_pull_with_key
 
 ```php
 /**
@@ -32,7 +32,7 @@ The following functions are provided in the `LaracraftTech`-namespace:
  * @param  mixed  $default
  * @return array
  */
-array_pull_with_Key([
+array_pull_with_key([
     'a' => 1,
     'b' => 2,
     'c' => 3,
