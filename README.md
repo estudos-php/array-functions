@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/laracraft-tech/array-functions.svg?style=flat-square)](https://packagist.org/packages/laracraft-tech/array-functions)
 [![Tests](https://github.com/laracraft-tech/array-functions/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/laracraft-tech/array-functions/actions/workflows/run-tests.yml)
-[![Check & fix styling](https://github.com/laracraft-tech/array-functions/workflows/fix-php-code-style-issues.yaml/badge.svg?branch=main)](https://github.com/laracraft-tech/array-functions/actions/workflows/php-code-style-issues.yml)
+[![Check & fix styling](https://github.com/laracraft-tech/array-functions/workflows/fix-php-code-style-issues.yml/badge.svg?branch=main)](https://github.com/laracraft-tech/array-functions/actions/workflows/fix-php-code-style-issues.yml)
 [![Licence](https://img.shields.io/packagist/l/laracraft-tech/array-functions.svg?style=flat-square)](https://packagist.org/packages/laracraft-tech/array-functions)
 <!--[![Total Downloads](https://img.shields.io/packagist/dt/laracraft-tech/array-functions.svg?style=flat-square)](https://packagist.org/packages/laracraft-tech/array-functions)-->
 
