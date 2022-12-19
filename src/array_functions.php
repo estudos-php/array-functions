@@ -5,12 +5,13 @@ namespace LaracraftTech;
 use Illuminate\Support\Arr;
 
 /**
- * Get a key-value pair from the array, and remove it.
+ * Returns the pulled key-value pair from the given array,
+ * and also removes it there.
  *
  * @param  array  $array
  * @param  string|int  $key
  * @param  mixed  $default
- * @return mixed
+ * @return array
  */
 function array_pull_with_Key(&$array, $key, $default = null)
 {
